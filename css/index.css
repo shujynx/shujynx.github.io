@@ -1,0 +1,65 @@
+h1 {
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    user-select: none;
+}
+
+body {
+    background-color: rgb(40, 40, 40);
+}
+
+.ytButton {
+    background-color: #ff3e3e;
+    border: none;
+    color: white;
+    padding: 15px 48px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.twButton {
+    background-color: #31b9de;
+    border: none;
+    color: white;
+    padding: 15px 55px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.dsButton {
+    background-color: #5764F0;
+    border: none;
+    color: white;
+    padding: 15px 52px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.image-cropper {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+  }
+  
+  img {
+    display: inline;
+    margin: 0 auto;
+    height: 100%;
+    width: 100%;
+  }
